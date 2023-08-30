@@ -6,7 +6,7 @@ Hey there! Welcome to my portfolio. I'm Vedant Chalke, an 11th-grade computer sc
 
 ## About Me
 
-Ever since I wrote my first line of HTML, I've been hooked on the world of coding and design. As a high school student with a keen interest in computer science, I've taken it upon myself to explore and excel in various domains that intrigue me the most.
+Ever since I wrote my first line of python, I've been hooked on the world of coding and design. As a high school student with a keen interest in computer science, I've taken it upon myself to explore and excel in various domains that intrigue me the most.
 
 ## What I Do
 
